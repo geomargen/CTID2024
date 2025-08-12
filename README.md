@@ -53,5 +53,5 @@
 - CTID24-105	Poyecto Vespucio	Giro, Rodolfo
 - CTID24-106	Modelado de olas en el litoral argentino: ¿se pueden mejorar los pronósticos?	Guadalupe Alonso, Walter C. Dragani, Matías G. Dinápoli, Claudia G. Simionato
 - CTID24-108	Remolinos de pequeña escala sobre el mar argentino y su influencia sobre la productividad primaria	Becker F., Romero S. I., Pisoni J. P.
-CTID24-109	Síntesis de catalizadores de combustión derivados del ferroceno y su incorporación al ligante polimérico del propulsante compuesto	Javier Quagliano, Álvaro Vazquez, Javier Bocchio, Pablo Ross
-CTID24-114	Paracaídas comandado autónomo para entrega de cargas	Andrés H. Liberatto, Diego Llorens
+- CTID24-109	Síntesis de catalizadores de combustión derivados del ferroceno y su incorporación al ligante polimérico del propulsante compuesto	Javier Quagliano, Álvaro Vazquez, Javier Bocchio, Pablo Ross
+- CTID24-114	Paracaídas comandado autónomo para entrega de cargas	Andrés H. Liberatto, Diego Llorens
